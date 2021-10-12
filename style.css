@@ -13,3 +13,9 @@ body {
 section {
   padding-top: 5rem;
 }
+
+/* ultility */
+.tombol {
+  text-transform: uppercase;
+  border-radius: 50px;
+}

@@ -1,0 +1,21 @@
+body {
+  min-height: 2500px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffa500;
+}
+
+#project {
+  background-color: #ffa500;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+/* ultility */
+.tombol {
+  text-transform: uppercase;
+  border-radius: 50px;
+}
